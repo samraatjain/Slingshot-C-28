@@ -1,2 +1,2 @@
-# Slingshot-C-28
-Today we created slingshot
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
